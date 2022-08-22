@@ -1,0 +1,22 @@
+version: '3.3' #version of Docker-compose
+services: #specifies 2 microservices "web" and "postgresql"
+  pssqldb:
+    image: postgres:9.5 # Expose a postgres image
+    ports: ["5432:5432"] # Expose port 5432
+    hostname: pssqldb # pssqldb hostname
+    environment: # root username and password
+        - POSTGRES_USER=postgres
+        - POSTGRES_PASSWORD=root
+        - POSTGRES_DB=my_database
+  web: # Web microservice
+    build: spring-boot-web-posgresql
+    image: spring-boot-web-posgresql
+    ports: ["9999:9090"] # expose port 9999 for the rest client to connect to
+    hostname: web
+    tty: true
+    depends_on:
+      - pssqldb
+    links:
+      - pssqldb
+    environment:
+      - DB_PORT=tcp://pssqldb:5432  

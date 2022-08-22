@@ -1,0 +1,192 @@
+21/Aug/2022 23:38:36,496- INFO com.docker.application.Application [main] Starting Application using Java 1.8.0_301 on DESKTOP-IFOQRUE with PID 11012 (J:\docker-postgre-spring-boot-web\target\classes started by server in J:\docker-postgre-spring-boot-web)
+21/Aug/2022 23:38:36,552- DEBUG com.docker.application.Application [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+21/Aug/2022 23:38:36,554- INFO com.docker.application.Application [main] No active profile set, falling back to 1 default profile: "default"
+21/Aug/2022 23:38:45,965- INFO com.docker.application.Application [main] Started Application in 11.476 seconds (JVM running for 14.821)
+21/Aug/2022 23:39:41,589- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Printing IP address of the host DESKTOP-IFOQRUE
+21/Aug/2022 23:39:49,735- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,738- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,738- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,739- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,740- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,740- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,740- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,741- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,741- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,741- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,742- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,742- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,742- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,742- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,742- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,742- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,743- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,744- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,746- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,747- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,747- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,747- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,748- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,748- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,748- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,752- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,752- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,754- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,755- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,756- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,757- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,757- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] %s=%s%n
+21/Aug/2022 23:39:49,758- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:39:49,779- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:39:52,398- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:39:57,421- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:39:57,421- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:39:57,427- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:40:02,452- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:40:02,453- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:40:04,738- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:40:09,752- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:40:09,756- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:40:09,761- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:41:42,609- INFO com.docker.application.Application [main] Starting Application using Java 1.8.0_301 on DESKTOP-IFOQRUE with PID 9372 (J:\docker-postgre-spring-boot-web\target\classes started by server in J:\docker-postgre-spring-boot-web)
+21/Aug/2022 23:41:42,631- DEBUG com.docker.application.Application [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+21/Aug/2022 23:41:42,634- INFO com.docker.application.Application [main] No active profile set, falling back to 1 default profile: "default"
+21/Aug/2022 23:41:52,742- INFO com.docker.application.Application [main] Started Application in 12.139 seconds (JVM running for 15.444)
+21/Aug/2022 23:42:13,202- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Printing IP address of the host DESKTOP-IFOQRUE
+21/Aug/2022 23:42:15,873- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PATH = C:\Program Files\Java\jdk1.8.0_301\jre\bin;C:/Users/server/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047/jre/bin/server;C:/Users/server/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\server\AppData\Local\Microsoft\WindowsApps;C:\Users\server\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\server\AppData\Local\GitHubDesktop\bin;C:\Program Files\Docker Toolbox;C:\Windows\System32;
+21/Aug/2022 23:42:25,246- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERDOMAIN_ROAMINGPROFILE = DESKTOP-IFOQRUE
+21/Aug/2022 23:42:25,247- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] LOCALAPPDATA = C:\Users\server\AppData\Local
+21/Aug/2022 23:42:25,248- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] NO_PROXY = 192.168.99.100
+21/Aug/2022 23:42:25,249- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_LEVEL = 6
+21/Aug/2022 23:42:25,250- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] SYSTEMDRIVE = C:
+21/Aug/2022 23:42:25,250- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+21/Aug/2022 23:42:25,250- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_HOST = tcp://192.168.99.100:2376
+21/Aug/2022 23:42:25,250- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERDOMAIN = DESKTOP-IFOQRUE
+21/Aug/2022 23:42:25,250- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+21/Aug/2022 23:42:25,251- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] LOGONSERVER = \\DESKTOP-IFOQRUE
+21/Aug/2022 23:42:25,252- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROMPT = $P$G
+21/Aug/2022 23:42:25,252- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] SESSIONNAME = Console
+21/Aug/2022 23:42:25,253- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] ALLUSERSPROFILE = C:\ProgramData
+21/Aug/2022 23:42:25,253- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMFILES(X86) = C:\Program Files (x86)
+21/Aug/2022 23:42:25,256- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_ARCHITECTURE = AMD64
+21/Aug/2022 23:42:25,257- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+21/Aug/2022 23:42:25,257- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMFILES = C:\Program Files
+21/Aug/2022 23:42:25,257- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] APPDATA = C:\Users\server\AppData\Roaming
+21/Aug/2022 23:42:25,257- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_MACHINE_NAME = default
+21/Aug/2022 23:42:25,258- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_CERT_PATH = C:\Users\server\.docker\machine\machines\default
+21/Aug/2022 23:42:25,259- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+21/Aug/2022 23:42:25,259- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMW6432 = C:\Program Files
+21/Aug/2022 23:42:25,260- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMDATA = C:\ProgramData
+21/Aug/2022 23:42:25,260- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] SYSTEMROOT = C:\Windows
+21/Aug/2022 23:42:25,261- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERNAME = server
+21/Aug/2022 23:42:25,261- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+21/Aug/2022 23:42:25,262- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] FPS_BROWSER_USER_PROFILE_STRING = Default
+21/Aug/2022 23:42:25,267- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] ONEDRIVE = C:\Users\server\OneDrive
+21/Aug/2022 23:42:25,268- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+21/Aug/2022 23:42:25,268- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMPOSE_CONVERT_WINDOWS_PATHS = true
+21/Aug/2022 23:42:25,268- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] OS = Windows_NT
+21/Aug/2022 23:42:25,268- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMMONPROGRAMW6432 = C:\Program Files\Common Files
+21/Aug/2022 23:42:25,714- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMPUTERNAME = DESKTOP-IFOQRUE
+21/Aug/2022 23:42:25,714- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMMONPROGRAMFILES = C:\Program Files\Common Files
+21/Aug/2022 23:42:25,714- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMSPEC = C:\Windows\system32\cmd.exe
+21/Aug/2022 23:42:25,715- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_REVISION = 3a09
+21/Aug/2022 23:42:25,715- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] WINDIR = C:\Windows
+21/Aug/2022 23:42:25,716- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_TLS_VERIFY = 1
+21/Aug/2022 23:42:25,716- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] HOMEPATH = \Users\server
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] TEMP = C:\Users\server\AppData\Local\Temp
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] HOMEDRIVE = C:
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERPROFILE = C:\Users\server
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] TMP = C:\Users\server\AppData\Local\Temp
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PUBLIC = C:\Users\Public
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] NUMBER_OF_PROCESSORS = 2
+21/Aug/2022 23:42:25,717- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_TOOLBOX_INSTALL_PATH = C:\Program Files\Docker Toolbox
+21/Aug/2022 23:42:25,718- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:42:25,750- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:42:28,157- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:42:33,183- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:42:33,184- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:42:33,187- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:42:38,204- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:42:38,205- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:42:40,487- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:42:45,502- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:42:45,507- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:42:45,511- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:42:50,525- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:42:50,528- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:42:52,802- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:42:57,820- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://pssqldb:5432/my_database
+21/Aug/2022 23:42:57,821- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:42:57,824- ERROR com.docker.controller.PostgreController [http-nio-8080-exec-1] Error connecting to database
+21/Aug/2022 23:43:39,318- INFO com.docker.application.Application [main] Starting Application using Java 1.8.0_301 on DESKTOP-IFOQRUE with PID 11180 (J:\docker-postgre-spring-boot-web\target\classes started by server in J:\docker-postgre-spring-boot-web)
+21/Aug/2022 23:43:39,374- DEBUG com.docker.application.Application [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+21/Aug/2022 23:43:39,376- INFO com.docker.application.Application [main] No active profile set, falling back to 1 default profile: "default"
+21/Aug/2022 23:43:49,157- INFO com.docker.application.Application [main] Started Application in 12.161 seconds (JVM running for 15.396)
+21/Aug/2022 23:43:56,302- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Printing IP address of the host DESKTOP-IFOQRUE
+21/Aug/2022 23:43:56,302- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PATH = C:\Program Files\Java\jdk1.8.0_301\jre\bin;C:/Users/server/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047/jre/bin/server;C:/Users/server/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20220805-1047/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\server\AppData\Local\Microsoft\WindowsApps;C:\Users\server\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\server\AppData\Local\GitHubDesktop\bin;C:\Program Files\Docker Toolbox;C:\Windows\System32;
+21/Aug/2022 23:43:56,302- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERDOMAIN_ROAMINGPROFILE = DESKTOP-IFOQRUE
+21/Aug/2022 23:43:56,302- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] LOCALAPPDATA = C:\Users\server\AppData\Local
+21/Aug/2022 23:43:56,303- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] NO_PROXY = 192.168.99.100
+21/Aug/2022 23:43:56,303- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_LEVEL = 6
+21/Aug/2022 23:43:56,303- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] SYSTEMDRIVE = C:
+21/Aug/2022 23:43:56,303- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+21/Aug/2022 23:43:56,303- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_HOST = tcp://192.168.99.100:2376
+21/Aug/2022 23:43:56,303- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERDOMAIN = DESKTOP-IFOQRUE
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] LOGONSERVER = \\DESKTOP-IFOQRUE
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROMPT = $P$G
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] SESSIONNAME = Console
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] ALLUSERSPROFILE = C:\ProgramData
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMFILES(X86) = C:\Program Files (x86)
+21/Aug/2022 23:43:56,304- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_ARCHITECTURE = AMD64
+21/Aug/2022 23:43:56,305- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+21/Aug/2022 23:43:56,305- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMFILES = C:\Program Files
+21/Aug/2022 23:43:56,305- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] APPDATA = C:\Users\server\AppData\Roaming
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_MACHINE_NAME = default
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_CERT_PATH = C:\Users\server\.docker\machine\machines\default
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMW6432 = C:\Program Files
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROGRAMDATA = C:\ProgramData
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] SYSTEMROOT = C:\Windows
+21/Aug/2022 23:43:56,306- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERNAME = server
+21/Aug/2022 23:43:56,307- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+21/Aug/2022 23:43:56,307- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] FPS_BROWSER_USER_PROFILE_STRING = Default
+21/Aug/2022 23:43:56,307- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] ONEDRIVE = C:\Users\server\OneDrive
+21/Aug/2022 23:43:56,307- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+21/Aug/2022 23:43:56,307- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMPOSE_CONVERT_WINDOWS_PATHS = true
+21/Aug/2022 23:43:56,307- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] OS = Windows_NT
+21/Aug/2022 23:43:56,308- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMMONPROGRAMW6432 = C:\Program Files\Common Files
+21/Aug/2022 23:43:56,309- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMPUTERNAME = DESKTOP-IFOQRUE
+21/Aug/2022 23:43:56,310- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMMONPROGRAMFILES = C:\Program Files\Common Files
+21/Aug/2022 23:43:56,310- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] COMSPEC = C:\Windows\system32\cmd.exe
+21/Aug/2022 23:43:56,310- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_REVISION = 3a09
+21/Aug/2022 23:43:56,310- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] WINDIR = C:\Windows
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_TLS_VERIFY = 1
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] HOMEPATH = \Users\server
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] TEMP = C:\Users\server\AppData\Local\Temp
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] HOMEDRIVE = C:
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] USERPROFILE = C:\Users\server
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] TMP = C:\Users\server\AppData\Local\Temp
+21/Aug/2022 23:43:56,311- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] PUBLIC = C:\Users\Public
+21/Aug/2022 23:43:56,312- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] NUMBER_OF_PROCESSORS = 2
+21/Aug/2022 23:43:56,312- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] DOCKER_TOOLBOX_INSTALL_PATH = C:\Program Files\Docker Toolbox
+21/Aug/2022 23:43:56,313- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connecting to URL jdbc:postgresql://localhost:5432/my_database
+21/Aug/2022 23:43:56,329- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Driver loaded successfully  class org.postgresql.Driver
+21/Aug/2022 23:43:58,359- DEBUG com.docker.controller.PostgreController [http-nio-8080-exec-1] Connection was successful
